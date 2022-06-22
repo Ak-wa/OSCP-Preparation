@@ -1,4 +1,4 @@
-:: Script to disable and re-enable specific network adapters
+:: Script to disable and re-enable specific network adapters (Windows 10)
 :: "Ethernet 2" has to be replaced with your OpenVPN adapter name
 @echo off
 @color 0a
