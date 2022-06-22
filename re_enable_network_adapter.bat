@@ -1,5 +1,6 @@
 :: Script to disable and re-enable specific network adapters (Windows 10)
 :: "Ethernet 2" has to be replaced with your OpenVPN adapter name
+:: Fixes known PWK VPN connectivity issues - "Yellow OpenVPN Taskbar symbol"
 @echo off
 @color 0a
 :: Start as admin
