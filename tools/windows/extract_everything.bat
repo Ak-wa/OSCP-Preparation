@@ -1,4 +1,4 @@
-:: Extracts zip & rar files from folder (github detects them as malware so it has to be done this way)
+:: Extracts zip & rar files from folder
 unrar x -r mimikatz_trunk.rar
 unzip netcat-win32-1.12.zip -d netcat
 wget https://eternallybored.org/misc/netcat/netcat-win32-1.11.zip
